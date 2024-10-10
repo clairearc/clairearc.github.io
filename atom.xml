@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://clairearc.github.io</id>
+    <title>Claire&apos;s blog</title>
+    <updated>2024-10-10T00:40:55.471Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://clairearc.github.io"/>
+    <link rel="self" href="https://clairearc.github.io/atom.xml"/>
+    <subtitle>记录</subtitle>
+    <logo>https://clairearc.github.io/images/avatar.png</logo>
+    <icon>https://clairearc.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Claire&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[股市]]></title>
+        <id>https://clairearc.github.io/post/gu-shi/</id>
+        <link href="https://clairearc.github.io/post/gu-shi/">
+        </link>
+        <updated>2024-10-09T07:26:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写博客是为什么]]></title>
+        <id>https://clairearc.github.io/post/why-blog/</id>
+        <link href="https://clairearc.github.io/post/why-blog/">
+        </link>
+        <updated>2024-10-09T06:56:03.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<p>其实我一直没太想清为什么写博客，写公众号倒是想清楚了，因为可能与人产生的链接，所以公众号上主要是为了项目上的一些总结，是不想透漏太多私人信息和想法的，那么写博客呢？</p>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<p>其实我一直没太想清为什么写博客，写公众号倒是想清楚了，因为可能与人产生的链接，所以公众号上主要是为了项目上的一些总结，是不想透漏太多私人信息和想法的，那么写博客呢？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不折腾]]></title>
+        <id>https://clairearc.github.io/post/bu-zhe-teng/</id>
+        <link href="https://clairearc.github.io/post/bu-zhe-teng/">
+        </link>
+        <updated>2024-10-07T15:19:04.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<p>又花费了很多时间折腾Gridea的模板，选了模板后不满意字体又改字体，可惜不懂代码只靠着英文字义改了几个地方，</p>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<p>又花费了很多时间折腾Gridea的模板，选了模板后不满意字体又改字体，可惜不懂代码只靠着英文字义改了几个地方，</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缘起]]></title>
+        <id>https://clairearc.github.io/post/yuan-qi/</id>
+        <link href="https://clairearc.github.io/post/yuan-qi/">
+        </link>
+        <updated>2024-10-07T09:06:58.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<p>2024-10-07<br>
+真没想到2024年我也开始写日记了，回想起上一次还是日记还是写博客，真是遥远的年代了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<p>2024-10-07<br>
+真没想到2024年我也开始写日记了，回想起上一次还是日记还是写博客，真是遥远的年代了。</p>
+]]></content>
+    </entry>
+</feed>
